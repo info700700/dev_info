@@ -23,4 +23,5 @@ Google Developers
 https://developers.google.com  
 https://developers.google.com/learn  
 https://developers.google.com/web  
+https://developers.google.com/web/fundamentals  
 https://www.youtube.com/user/GoogleDevelopers
