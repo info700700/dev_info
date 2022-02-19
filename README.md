@@ -16,7 +16,8 @@ https://mcs.mail.ru/blog/
 https://www.youtube.com/c/MailRuCloudSolutions
 
 IBM Developer  
-https://developer.ibm.com
+https://developer.ibm.com  
+https://www.youtube.com/user/developerworks
 
 Google Developers  
 https://developers.google.com  
