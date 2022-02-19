@@ -1,9 +1,10 @@
 # dev_info
 
+Академия Яндекса
+https://academy.yandex.ru
+
 Яндекс.Практикум  
 https://practicum.yandex.ru
-
-https://academy.yandex.ru
 
 ---
 
