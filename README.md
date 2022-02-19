@@ -1,7 +1,10 @@
 # dev_info
 
 Россия — страна возможностей  
-https://rsv.ru
+https://rsv.ru  
+https://rsv.ru/edu/courses/
+
+---
 
 Университет 2035  
 https://2035.university
