@@ -40,6 +40,8 @@ https://www.youtube.com/user/GoogleDevelopers
 https://web.dev  
 https://www.youtube.com/user/ChromeDevelopers
 
+https://blog.chromium.org
+
 ---
 
 Go
