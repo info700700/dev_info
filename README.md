@@ -17,3 +17,8 @@ https://www.youtube.com/c/MailRuCloudSolutions
 
 IBM Developer  
 https://developer.ibm.com
+
+Google Developers  
+https://developers.google.com  
+https://developers.google.com/learn  
+https://www.youtube.com/user/GoogleDevelopers
