@@ -6,6 +6,8 @@ https://2035.university
 Цифровые профессии  
 https://цифровыепрофессии.рф
 
+https://национальныепроекты.рф/opportunities/ovladet-tsifrovymi-navykami
+
 ---
 
 Академия Яндекса  
