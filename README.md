@@ -9,6 +9,10 @@ https://www.youtube.com/channel/UCJPc1Fjh9C8tPUo5qBEErMw
 
 ---
 
+https://leader-id.ru
+
+---
+
 Университет 2035  
 https://2035.university
 
