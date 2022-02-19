@@ -3,6 +3,7 @@
 Академия Яндекса  
 https://academy.yandex.ru  
 https://www.youtube.com/c/АкадемияЯндекса  
+https://www.youtube.com/c/Компьютерныенауки  
 https://www.youtube.com/c/Разработка
 
 Яндекс.Практикум  
