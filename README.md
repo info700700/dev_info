@@ -8,6 +8,9 @@ https://www.youtube.com/c/Разработка
 https://www.youtube.com/c/Фронтенд  
 https://www.youtube.com/c/Управлениепроектами
 
+Системное администрирование, безопасность, сети  
+https://www.youtube.com/c/Системноеадминистрирование
+
 Яндекс.Практикум  
 https://practicum.yandex.ru
 
