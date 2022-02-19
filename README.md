@@ -28,7 +28,7 @@ https://developers.google.com/web
 https://developers.google.com/web/fundamentals  
 https://www.youtube.com/user/GoogleDevelopers
 
-https://web.dev
+https://web.dev  
 https://www.youtube.com/user/ChromeDevelopers
 
 ---
