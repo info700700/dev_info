@@ -5,7 +5,8 @@ https://academy.yandex.ru
 https://www.youtube.com/c/АкадемияЯндекса  
 https://www.youtube.com/c/Компьютерныенауки  
 https://www.youtube.com/c/Разработка  
-https://www.youtube.com/c/Фронтенд
+https://www.youtube.com/c/Фронтенд  
+https://www.youtube.com/c/Управлениепроектами
 
 Яндекс.Практикум  
 https://practicum.yandex.ru
