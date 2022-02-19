@@ -8,6 +8,8 @@ https://цифровыепрофессии.рф
 
 https://национальныепроекты.рф/opportunities/ovladet-tsifrovymi-navykami
 
+https://готовкцифре.рф
+
 ---
 
 Академия Яндекса  
