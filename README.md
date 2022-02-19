@@ -37,5 +37,13 @@ https://www.youtube.com/user/ChromeDevelopers
 
 ---
 
-Go  
+Go
+
+Кто такой Go-разработчик и как им стать  
 https://academy.yandex.ru/posts/kto-takoy-go-razrabotchik-i-kak-im-stat
+
+50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs  
+https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+
+50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков  
+https://habr.com/ru/company/vk/blog/314804/
