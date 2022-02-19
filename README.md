@@ -93,6 +93,11 @@ https://blog.chromium.org
 
 ---
 
+JetBrains Academy  
+https://www.jetbrains.com/ru-ru/academy/
+
+---
+
 Go
 
 Кто такой Go-разработчик и как им стать  
