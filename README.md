@@ -17,6 +17,9 @@ https://www.youtube.com/channel/UC9VeXtf7fcCJUfmZ_cyweXA/featured
 Школа Вебмастеров  
 https://www.youtube.com/channel/UCWWfIyhjfJHdH1Kvx5p9gyg/featured
 
+Дизайн  
+https://www.youtube.com/channel/UCswtUaxvXXZe3KkwMtgrj9g
+
 **Яндекс.Практикум**  
 https://practicum.yandex.ru
 
