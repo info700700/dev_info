@@ -3,6 +3,10 @@
 Яндекс.Практикум  
 https://practicum.yandex.ru
 
+https://academy.yandex.ru
+
+---
+
 Computer Science Center  
 https://compscicenter.ru  
 https://www.youtube.com/c/CompscicenterRu
@@ -32,3 +36,6 @@ https://web.dev
 https://www.youtube.com/user/ChromeDevelopers
 
 ---
+
+Go  
+https://academy.yandex.ru/posts/kto-takoy-go-razrabotchik-i-kak-im-stat
