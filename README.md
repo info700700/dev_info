@@ -14,7 +14,10 @@ https://www.youtube.com/c/Системноеадминистрирование
 Тестирование  
 https://www.youtube.com/channel/UC9VeXtf7fcCJUfmZ_cyweXA/featured
 
-Яндекс.Практикум  
+Школа Вебмастеров  
+https://www.youtube.com/channel/UCWWfIyhjfJHdH1Kvx5p9gyg/featured
+
+**Яндекс.Практикум**  
 https://practicum.yandex.ru
 
 ---
