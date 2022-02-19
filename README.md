@@ -2,7 +2,8 @@
 
 Академия Яндекса  
 https://academy.yandex.ru  
-https://www.youtube.com/c/АкадемияЯндекса
+https://www.youtube.com/c/АкадемияЯндекса  
+https://www.youtube.com/c/Разработка
 
 Яндекс.Практикум  
 https://practicum.yandex.ru
