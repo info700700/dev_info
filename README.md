@@ -51,3 +51,7 @@ https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 
 50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков  
 https://habr.com/ru/company/vk/blog/314804/
+
+---
+
+https://www.coursera.org/browse/computer-science
