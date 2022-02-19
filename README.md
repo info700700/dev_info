@@ -24,9 +24,19 @@ Industrial Software Engineering Online
 https://online.osll.ru/useful  
 https://www.youtube.com/channel/UCG5p_AY0z7WDAgH6j-oCa9g
 
+---
+
 VK Cloud Solutions  
 https://mcs.mail.ru/blog/  
 https://www.youtube.com/c/MailRuCloudSolutions
+
+VK Team  
+https://www.youtube.com/c/TPMGTU
+
+Программирование на Go  
+https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I
+
+---
 
 IBM Developer  
 https://developer.ibm.com  
