@@ -1,5 +1,8 @@
 # dev_info
 
+Яндекс.Практикум  
+https://practicum.yandex.ru
+
 Computer Science Center  
 https://compscicenter.ru  
 https://www.youtube.com/c/CompscicenterRu
