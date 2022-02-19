@@ -11,6 +11,9 @@ https://www.youtube.com/c/Управлениепроектами
 Системное администрирование, безопасность, сети  
 https://www.youtube.com/c/Системноеадминистрирование
 
+Тестирование
+https://www.youtube.com/channel/UC9VeXtf7fcCJUfmZ_cyweXA/featured
+
 Яндекс.Практикум  
 https://practicum.yandex.ru
 
