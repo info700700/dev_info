@@ -46,6 +46,10 @@ https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I
 
 IBM Developer  
 https://developer.ibm.com  
+
+Why and when to use Kubernetes Operators  
+https://developer.ibm.com/learningpaths/why-when-kubernetes-operators/
+
 https://www.youtube.com/user/developerworks
 
 ---
