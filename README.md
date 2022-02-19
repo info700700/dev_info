@@ -4,6 +4,9 @@
 https://rsv.ru  
 https://rsv.ru/edu/courses/
 
+Россия — страна возможностей  
+https://www.youtube.com/channel/UCJPc1Fjh9C8tPUo5qBEErMw
+
 ---
 
 Университет 2035  
