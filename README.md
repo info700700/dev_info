@@ -1,5 +1,10 @@
 # dev_info
 
+Университет 2035  
+https://2035.university
+
+---
+
 Академия Яндекса  
 https://academy.yandex.ru  
 https://www.youtube.com/c/АкадемияЯндекса  
