@@ -107,6 +107,8 @@ https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture
 
 https://developer.microsoft.com/ru-ru/
 
+https://github.com/dotnet-architecture/eShopModernizing
+
 ---
 
 JetBrains Academy  
