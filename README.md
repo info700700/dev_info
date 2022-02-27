@@ -97,6 +97,16 @@ https://blog.chromium.org
 
 ---
 
+Microsoft
+
+https://developer.microsoft.com  
+https://dotnet.microsoft.com/en-us/learn  
+https://dotnet.microsoft.com/en-us/learn/microservices
+
+https://developer.microsoft.com/ru-ru/
+
+---
+
 JetBrains Academy  
 https://www.jetbrains.com/ru-ru/academy/
 
