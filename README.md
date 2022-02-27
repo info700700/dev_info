@@ -101,7 +101,9 @@ Microsoft
 
 https://developer.microsoft.com  
 https://dotnet.microsoft.com/en-us/learn  
-https://dotnet.microsoft.com/en-us/learn/microservices
+https://dotnet.microsoft.com/en-us/learn/microservices  
+https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides  
+https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture
 
 https://developer.microsoft.com/ru-ru/
 
