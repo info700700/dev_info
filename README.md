@@ -109,6 +109,8 @@ https://developer.microsoft.com/ru-ru/
 
 https://github.com/dotnet-architecture/eShopModernizing
 
+https://code.visualstudio.com/docs/containers/overview
+
 ---
 
 JetBrains Academy  
