@@ -105,6 +105,9 @@ https://dotnet.microsoft.com/en-us/learn/microservices
 https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides  
 https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture
 
+Development workflow for Docker apps  
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/docker-application-development-process/docker-app-development-workflow
+
 https://developer.microsoft.com/ru-ru/
 
 https://github.com/dotnet-architecture/eShopModernizing
